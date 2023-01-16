@@ -1,0 +1,1 @@
+import{o,c as a,b as e,w as t,V as s,d as c,h as r,ba as n}from"./index.eabc3cf4.js";const d={id:"admin-home"},l=r("h1",{class:"text-center text-red"},"\u8ACB\u9078\u64C7\u7BA1\u7406\u9805\u76EE",-1);function _(f,h){return o(),a("div",d,[e(s,null,{default:t(()=>[e(c,{cols:"12",color:""},{default:t(()=>[l]),_:1})]),_:1})])}const i={},u=n(i,[["render",_]]);export{u as default};
