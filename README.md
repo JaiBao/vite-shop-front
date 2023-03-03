@@ -1,4 +1,5 @@
-# default
+# 購物網站初版(vuetify+vue)
+簡易功能
 
 ## Project setup
 
